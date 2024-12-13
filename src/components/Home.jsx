@@ -23,7 +23,7 @@ function Home() {
       >
         <div className="flex flex-col md:flex-row">
           <div className="md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1">
-            <span className="text-xl">Welcome In My Feed</span>
+            <span className="text-xl">Welcome In My Profile</span>
             <div className="flex space-x-1 text-2xl md:text-4xl">
               <h1>Hello, I'm a</h1>
               {/* <span >Developer</span> */}
@@ -37,11 +37,11 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              I am a driven and ambitious individual pursuing a Master's degree in Computer Applications. 
+              My objective is to start  my  career  in  the software field, 
+              where I can apply my technical knowledge and skills to contribute effectively to an organization's
+               growth. I am skilled in project management, creative design, and am a strong decision maker.
+                I am eager to learn and adapt to new challenges.
             </p>
             <br />
             {/* social media icons */}
